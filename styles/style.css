@@ -1,6 +1,6 @@
-@import './components/_navbar.css';
-@import './layout/_grids.css';
-@import './components/_assets.css';
+@import './components/navbar.css';
+@import './layout/grids.css';
+@import './components/assets.css';
 @import 'root.css';
 
 * {
