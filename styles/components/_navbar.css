@@ -1,0 +1,49 @@
+nav ul{
+    display: flex;
+    list-style: none;
+}
+
+
+nav .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav {
+    background: rgb(143, 11, 125);
+    border-radius: 7px;
+}
+
+nav ul li{
+    font-size: 1.1rem;
+    font-weight: 400;
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+}
+
+nav ul li a{
+    color: darkgoldenrod;
+    text-decoration: none;
+    font-family: var(--ffamily-3);
+    font-size: large;
+    text-align: end;
+    justify-content: space-between;
+    display: flex;
+    display: grid;
+    grid-column: auto;
+}
+
+nav ul li:hover{
+    background-color: var(--color-3);
+    transition: 300ms;
+    cursor: pointer;
+}
+
+nav ul a{
+    color: var(--color-2);
+    text-decoration: none;
+    font-family: var(--ffamily-2);
+    font-size: x-large;
+    display: flex;
+}

@@ -1,0 +1,15 @@
+:root{
+    --gap-1: 0.5rem;
+    --gap-2: 1rem;
+    --gap-3: 1.5rem;
+    --gap-4: 2rem;
+    --gap-5: rem;
+
+    --color-1: yellow;
+    --color-2: darkgoldenrod;
+    --color-3: rgb(155, 22, 137);
+    
+    --ffamily-1: cursive;
+    --ffamily-2: Verdana, Geneva, Tahoma, sans-serif;
+    --ffamily-3: Trebuchet MS, Lucida Sans Unicode, Lucida Grande, Lucida Sans , Arial, sans-serif;
+}

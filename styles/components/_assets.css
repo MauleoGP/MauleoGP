@@ -1,0 +1,55 @@
+.img{
+    width: 150px;
+    height: 150px;
+    border: 2px solid;
+    border-color: darkgoldenrod;
+    border-radius: 100%;
+}
+
+
+.txt{
+    color: yellow;
+    font-family: cursive;
+}
+
+.proyect{
+    margin-top: 7%;
+    margin-left: 3%;
+    color: yellow;
+    font-family: cursive;
+}
+
+.ph-1{
+    width: 150px;
+    height: 150px;
+    border: 2px solid;
+    border-radius: 50px;
+    border-color: darkgoldenrod;
+}
+
+.ph-2{
+    width: 90px;
+    height: 150px;
+    margin-left: 20px;
+    border: 2px solid;
+    border-radius: 65px;
+    border-color: darkgoldenrod;
+}
+
+.ph-3{
+    width: 150px;
+    height: 150px;
+    margin-left: 20px;
+    border: 2px solid;
+    border-radius: 30px;
+    border-color: darkgoldenrod;
+}
+
+.ph-4{
+    width: 150px;
+    height: 150px;
+    margin-left: 20px;
+    border: 2px solid;
+    border-radius: 30px;
+    border-color: darkgoldenrod;
+}

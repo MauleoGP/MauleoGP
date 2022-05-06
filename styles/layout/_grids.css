@@ -1,0 +1,40 @@
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 12px;
+    padding-right: 12px;
+    max-width: 900px;
+    width: 100%;
+}
+
+.jumbotron-grid{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 24px;
+    align-items: center;
+}
+
+.jumbotron-grid .col-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.jumbotron-grid .col-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+@media(max-width: 458px){
+    .jumbotron-grid{
+        grid-template-columns: 1fr;
+        align-items: center;
+    }
+}
+
+/*-----------ABOUT-ME-------------*/
+.aboutme-grid{
+    display: grid;
+}
