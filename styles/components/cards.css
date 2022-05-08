@@ -1,0 +1,29 @@
+.card .card-picture img{
+    color: black;
+    width: 60%;
+    border-radius: 8px;
+}
+
+.card{
+    background-color: darkmagenta;
+    padding: var(--gap-2);
+    border: 2px solid;
+    border-radius: 8px;
+    transform: scale(1);
+    margin: 25px;
+    color: yellow;
+    font-family: cursive;
+    font-size: small;
+    margin-top: var(--gap-5);
+    transform: scale(1);
+}
+
+.card .card-picture{
+    margin-top: -5px;
+}
+
+.card:hover {
+    box-shadow: 0px 2px 8px 4px rgb(155, 22, 137);
+    transform: scale(1.05);
+    cursor: pointer;
+}

@@ -1,7 +1,8 @@
 @import './components/navbar.css';
 @import './layout/grids.css';
 @import './components/assets.css';
-@import 'root.css';
+@import './styles/root.css';
+@import './components/cards.css';
 
 * {
     margin: 0;
@@ -19,4 +20,8 @@ section#About-me {
 
 section:not(#jumbotron) {
     padding: var(--gap-5);
+}
+
+section#projects {
+    margin-top: 20px;
 }

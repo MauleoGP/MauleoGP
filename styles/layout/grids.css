@@ -38,3 +38,19 @@
 .aboutme-grid{
     display: grid;
 }
+
+/*-------------Proyecs-----------*/
+
+.projects-grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px 1fr));
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.card-picture{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
