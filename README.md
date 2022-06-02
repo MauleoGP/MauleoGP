@@ -1,0 +1,9 @@
+- 👋 Hola yo soy Mauricio.
+- 👀 Utilizo visual studio code para programar páginas web.
+- 🌱 Estudio html, css y javascript hasta el momento.
+- 💞️ trabajo solo :")
+- 📫 Contacto:🤩mlgp280@gmail.com👽
+- 🔴Twitch: Mau leoGP
+- 👨‍🎓 curso:VinciU
+- 👨‍🏫 https://www.vinciu.com
+- Mi web: 
