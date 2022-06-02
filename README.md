@@ -6,4 +6,4 @@
 - 🔴Twitch: Mau leoGP
 - 👨‍🎓 curso:VinciU
 - 👨‍🏫 https://www.vinciu.com
-- Mi web: 
+- Mi web: https://mauleogp.github.io/MauleoGP/
